@@ -3,8 +3,8 @@ Welcome to Agent666's Sphinx RTD Theme Template
 
 
 
-Changes from the standard Sphinx
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changes from the standard Sphinx theme
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Added *Sphinx RTD Theme*
 
 #. Added a number of useful built in *Sphinx* extensions
@@ -27,7 +27,7 @@ Changes from the standard Sphinx
 
 #. Changed default *description* fonts to **Inconsolata** and bumped up font size from **14px to 16px** for a clearer layout, via custom ``layout.html`` file and ``custom.css`` file. Where the font size for the descriptions now more closely match the other default font sizes used for the typical body text (its much smaller by default)
 
-#. Changed default max page width from **800px to 1200px** max to better suit displaying both more text and longer code lines via custom ``custom.css`` file (suits 150 characters per line which is my default goto style). This based on the following code style:-
+#. Changed default max page width from **800px to 1200px** max to better suit displaying both more text and longer code lines via custom ``custom.css`` file (suits 150 characters per line which is my default goto style). This is based on the following code style:-
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square
    :target: https://github.com/ambv/Black
