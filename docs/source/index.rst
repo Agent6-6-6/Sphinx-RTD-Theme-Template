@@ -52,7 +52,7 @@ To Use
 ^^^^^^
 * Copy the ``docs`` folder to your repository
 
-* Modify ``conf.py`` line ``sys.path.insert(0, os.path.abspath('../../')1)`` to the path(s) where modules are stored that you want to be processed on the basis of docstrings within the modules themselves
+* Modify ``conf.py`` line ``sys.path.insert(0, os.path.abspath('../../'))`` to the path(s) where modules are stored that you want to be processed on the basis of docstrings within the modules themselves
 
 * Run ``make html`` at the command prompt from within the ``../docs`` directory to build html files
 
