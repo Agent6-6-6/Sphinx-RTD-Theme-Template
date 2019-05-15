@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.abspath('../../docs/source/_demo/_test_module'))  # p
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx RTD Template'
+project = 'Sphinx RTD Theme Template'
 copyright = '2019, Agent666'
 author = 'Agent666'
 
