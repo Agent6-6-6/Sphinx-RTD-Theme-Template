@@ -60,7 +60,7 @@ To Use
 
 * Note if you subsequently modify the ``custom.css`` file then you may need to run ``make clean`` followed by ``make html`` to pickup the css changes
 
-* Review demo files under ``_demo`` directory for examples of formatting, etc. This directory can be removed, and references to it removed from ``index.rst`` file. Note the example content is taken from the official RTD pages, and due to the wider default page width, and the use of the *Sphinx RTD Theme* some of the formatting may look different (for example footnotes, and some of the examples of test wrapping around images). Some of the intentional errors have bene removed so the documents build remotely on https://sphinx-rtd-theme-template.readthedocs.io/en/latest/
+* Review demo files under ``_demo`` directory for examples of formatting, etc. This directory can be removed, and references to it removed from ``index.rst`` file. Note the example content is taken from the official RTD pages, and due to the wider default page width, and the use of the *Sphinx RTD Theme* some of the formatting may look different (for example footnotes, and some of the examples of test wrapping around images). Some of the intentional errors have been removed so the documents build remotely on https://sphinx-rtd-theme-template.readthedocs.io/en/latest/
 
 Prerequisites
 ^^^^^^^^^^^^^
