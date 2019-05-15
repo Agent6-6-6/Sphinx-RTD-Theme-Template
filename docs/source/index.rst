@@ -15,7 +15,7 @@ Changes from the standard Sphinx theme
    #. viewcode
    #. todo
    #. githubpages
-   #. napoleon
+   #. napoleon - Allows parses NumPy and Google style docstrings
 
 #. Added reference to use *Pygments* code syntax highlighter (note if you want to modify this theme copy the ``pygments.css`` file into ``../docs/source/html/_static/css`` directory and change any of the values and it will overwrite the default *Pygment* highlighting theme options)
 
