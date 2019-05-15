@@ -12,7 +12,10 @@
 !/*
 
 # Include docs directory and all subdirectories
-!/docs/**
+#!/docs/**
+
+# Exclude build directory and all subdirectories
+/docs/build/**
 
 # exclude Windows image file caches
 Thumbs.db

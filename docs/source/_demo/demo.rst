@@ -18,7 +18,7 @@ Inline Markup
 Paragraphs contain text and may contain inline markup: *emphasis*, **strong emphasis**, ``inline literals``,
 standalone hyperlinks (http://www.python.org), external hyperlinks (Python_), internal cross-references (example_),
 external hyperlinks with embedded URIs (`Python web site <http://www.python.org>`__), footnote references
-(manually numbered [1]_, anonymous auto-numbered [#]_, labeled auto-numbered [#label]_, or symbolic [*]_),
+(manually numbered [1]_, anonymous auto-numbered [1]_, labeled auto-numbered [1]_, or symbolic [1]_),
 citation references ([12]_), substitution references (|example|), and _`inline hyperlink targets`
 (see Targets_ below for a reference back to here). Character-level inline markup is also possible
 (although exceedingly ugly!) in *re*\ ``Structured``\ *Text*.
