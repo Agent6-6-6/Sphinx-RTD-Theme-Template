@@ -1,4 +1,4 @@
-Welcome to Agent666's RTD Sphinx Theme Template
+Welcome to Agent666's Sphinx RTD Theme Template
 ===============================================
 
 
