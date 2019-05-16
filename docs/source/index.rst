@@ -1,6 +1,8 @@
 Welcome to Agent666's Sphinx RTD Theme Template
 ===============================================
-
+.. image:: https://readthedocs.org/projects/sphinx-rtd-theme-template/badge/?version=latest
+    :target: https://sphinx-rtd-theme-template.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 
 Changes from the standard Sphinx theme
