@@ -12,7 +12,10 @@
 !/*
 
 # Include docs directory and all subdirectories
-#!/docs/**
+!/docs/**
+
+# exclude any compiled python files
+*.pyc
 
 # Exclude build directory and all subdirectories
 /docs/build/**
