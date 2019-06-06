@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-'''Test Module for sphinx_rtd_theme.'''
+"""Test Module for sphinx_rtd_theme."""
 
 
 class Foo:
 
-    '''Docstring for class Foo.
+    """Docstring for class Foo.
 
     This text tests for the formatting of docstrings generated from output
     ``sphinx.ext.autodoc``. Which contain reST, but sphinx nests it in the
@@ -30,7 +30,7 @@ class Foo:
     Here is a link to :py:meth:`capitalize`.
     Here is a link to :py:meth:`__init__`.
 
-    '''
+    """
 
     #: Doc comment for class attribute Foo.bar.
     #: It can have multiple lines.
@@ -39,25 +39,25 @@ class Foo:
     flox = 1.5  #: Doc comment for Foo.flox. One line only.
 
     baz = 2
-    '''Docstring for class attribute Foo.baz.'''
+    """Docstring for class attribute Foo.baz."""
 
     def __init__(self, qux, spam=False):
-        '''Start the Foo.
+        """Start the Foo.
 
         :param qux: The first argument to initialize class.
         :type qux: string
         :param spam: Spam me yes or no...
         :type spam: bool
 
-        '''
+        """
         #: Doc comment for instance attribute qux.
         self.qux = 3
 
         self.spam = 4
-        '''Docstring for instance attribute spam.'''
+        """Docstring for instance attribute spam."""
 
     def add(self, val1, val2):
-        '''Return the added values.
+        """Return the added values.
 
         :param val1: First number to add.
         :type val1: int
@@ -65,23 +65,23 @@ class Foo:
         :type val2: int
         :rtype: int
 
-        '''
+        """
 
         return val1 + val2
 
     def capitalize(self, myvalue):
-        '''Return a string as uppercase.
+        """Return a string as uppercase.
 
         :param myvalue: String to change
         :type myvalue: string
         :rtype: string
 
-        '''
+        """
 
         return myvalue.upper()
 
     def another_function(self, a, b, **kwargs):
-        '''
+        """
         Here is another function.
 
         :param a: The number of green hats you own.
@@ -109,5 +109,5 @@ class Foo:
             This was changed in 2.0
         .. deprecated:: 3.0
             This is deprecated since 3.0
-        '''
+        """
         return sum(kwargs.values()) / len(kwargs), a + b

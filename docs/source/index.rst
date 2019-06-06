@@ -1,10 +1,3 @@
-.. note required for underlining
-
-.. role:: underline
-    :class: underline
-
-.. end
-
 Welcome to Agent666's Sphinx RTD Theme Template
 ===============================================
 .. image:: https://readthedocs.org/projects/sphinx-rtd-theme-template/badge/?version=latest
