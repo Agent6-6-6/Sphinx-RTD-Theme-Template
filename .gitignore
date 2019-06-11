@@ -3,7 +3,7 @@
 # 2 - Exclude adding typical temp/backup/system files
 # 3 - Exclude adding all subdirectories except docs
 
-# last updated 16/2/2019
+# last updated 11/06/2019
 
 # exclude all subdirectories (& content) unless specifically allowed
 **/*
@@ -12,7 +12,10 @@
 !/*
 
 # Include docs directory and all subdirectories
-#!/docs/**
+!/docs/**
+
+# exclude any compiled python files
+*.pyc
 
 # Exclude build directory and all subdirectories
 /docs/build/**

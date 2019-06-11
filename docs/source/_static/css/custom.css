@@ -2,6 +2,7 @@
 .rst-content pre.literal-block, .rst-content div[class^="highlight"] pre, .rst-content .linenodiv pre {
 	font-family: 'Inconsolata', monospace !important;
 	font-size: 14px !important;
+	white-space: pre-wrap;
 }
 
 /* Change code descriptions and literal blocks (inline code via ``) to match the normal font size being used in the sphinx_RTD_theme text  (normally 14px)*/

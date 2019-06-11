@@ -25,7 +25,7 @@ Changes from the standard Sphinx theme
 
 #. Sets a number of default html theme options, such as showing the version in the title, adding next/previous buttons top and bottom, etc
 
-#. Changed default *code block* and ``inline code`` fonts to **Inconsolata** and bumped up font size from **12px to 14px** for a clearer/crisper layout via a custom ``layout.html`` file and ``custom.css`` file
+#. Changed default *code block* and ``inline code`` fonts to **Inconsolata** and bumped up font size from **12px to 14px** for a clearer/crisper layout via a custom ``layout.html`` file and ``custom.css`` file, added word-wrap in code blocks
 
 #. Changed default *description* fonts to **Inconsolata** and bumped up font size from **14px to 16px** for a clearer layout, via custom ``layout.html`` file and ``custom.css`` file. Where the font size for the descriptions now more closely match the other default font sizes used for the typical body text (its much smaller by default)
 
