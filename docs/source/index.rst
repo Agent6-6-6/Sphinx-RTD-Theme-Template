@@ -78,6 +78,9 @@ Support
 -------
 If you require support or have any feature requests related to the *Sphinx RTD Theme Template* package please feel free to raise an issue on `Github <https://github.com/Agent6-6-6/Sphinx-RTD-Theme-Template/issues>`_.
 
+For some further information and tips on setting up the theme you can refer to this blog post:-
+https://engineervsheep.com/2019/parabola-8/
+
 License
 -------
 
