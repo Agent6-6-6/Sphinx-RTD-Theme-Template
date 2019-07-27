@@ -4,3 +4,7 @@
 Sphinx template based on Sphinx RTD Theme, modified as noted at:-
 
 https://sphinx-rtd-theme-template.readthedocs.io/en/latest/
+
+For some further information and tips on the setup of the theme you can refer to the following blog post:-
+
+https://engineervsheep.com/2019/parabola-8/
